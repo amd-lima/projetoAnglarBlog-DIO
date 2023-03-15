@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Maeve",
+      "message": "Welcome"
+    },
+    {
+      "id": 2,
+      "name": "Leo",
+      "message": "it's up"
+    },
+    {
+      "id": 3,
+      "name": "Madame",
+      "message": "First post"
+    }
+  ]
+}
